@@ -31,7 +31,8 @@ discordwebhook = ""
 products = []
 
 word_list = ("Zombie Bunny") # add tuple of words here
-
+print "Made by - https://twitter.com/thebotsmith"
+print "\n"
 print "Using {} as search criteria".format(word_list)
 
 while len(products) == 0:
